@@ -23,7 +23,7 @@ it has 4 folder which are <br />1) Closed_eyes - having 726 pictures<br />
                           4) no_yawn - having 723 pictures<br />
 
 ## The Convolution Neural Network
-![CNN](https://user-images.githubusercontent.com/16632408/159187014-4bc4b70e-98d6-4313-873f-997ded2eff27.png)
+![image](https://user-images.githubusercontent.com/94388365/218297849-567e6faa-49f9-4b75-b46c-0720c094d9c5.png)
 
 ## Accuracy 
 We did 50 epochs, to get a good accuracy from the model i.e. 98% for training accuracy and 96% for validation accuracy.
