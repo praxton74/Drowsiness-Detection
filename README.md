@@ -8,9 +8,9 @@ Here, we used Python, OpenCV, Keras(tensorflow) to build a system that can detec
 ## Setup
 To set the model up:<br />
 Pre-install all the required libraries <br />1) OpenCV<br />
-                                       2) Keras<br />
+                                       2) Pandas<br />
                                        3) Numpy<br />
-                                       4) Pandas<br />
+                                       4) Keras<br />
                                        5) OS<br />
 Download the Dataset from the link given below and edit the address in the notebook accordingly.<br />
 Run the Jupyter Notebook and add the model name in detect_drowsiness.py file in line 20.<br />
@@ -26,6 +26,6 @@ it has 4 folder which are <br />1) Closed_eyes - having 726 pictures<br />
 ![image](https://user-images.githubusercontent.com/94388365/218297849-567e6faa-49f9-4b75-b46c-0720c094d9c5.png)
 
 ## Accuracy 
-We did 50 epochs, to get a good accuracy from the model i.e. 98% for training accuracy and 96% for validation accuracy.
+We did 50 epochs, to get a good accuracy from the model i.e. 92% for training accuracy and 96% for validation accuracy.
 
 ![Graph](https://user-images.githubusercontent.com/16632408/159187004-92a72662-ddfe-471d-8bd6-65a3593a70a1.png)
